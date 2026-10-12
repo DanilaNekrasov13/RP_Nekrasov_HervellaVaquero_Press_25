@@ -21,6 +21,9 @@ pip install pygame
 Run the game with:
 python game.py
 
+On macOS, you may need to use:
+python3 game.py
+
 ## How to Play
 
 - Press any key on the welcome screen to start.
